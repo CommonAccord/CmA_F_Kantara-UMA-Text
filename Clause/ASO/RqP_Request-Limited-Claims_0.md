@@ -10,4 +10,4 @@ Duty.1=to request only claims that support the purpose of satisfying an {Authori
 
 Comments=At a later stage, the {Authorization_Server} might ask the {Requesting_Party} to provide claims for specific permission purposes at multiple {Resource_Servers} and/or for multiple Authorizing Parties, but its responsibility begins now. This obligation can be removed through {AAT} revocation.
 
-=[G/CmA_F_Kantara-UMA-Text/Z/Clause_0.md]
+=[G/Kantara-UMA-Text-CmA/Z/Clause_0.md]

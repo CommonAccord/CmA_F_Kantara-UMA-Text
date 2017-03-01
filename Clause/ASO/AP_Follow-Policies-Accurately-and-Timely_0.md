@@ -10,4 +10,4 @@ Duty.1=to adhere to the {Authorizing_Party}'s policies accurately and timely in 
 
 Comments=At a later stage, the {Authorization_Server} will require the {Resource_Server} to present the {PAT} whenever it uses the {Authorization_Server}’s protection {API} on behalf of this {Authorizing_Party}. The {Authorization_Server_Operator} may have contracted with the {Authorizing_Party} for service-level agreements to respond specifically to timeliness needs and so on. This obligation can be removed through {PAT} revocation.
 
-=[G/CmA_F_Kantara-UMA-Text/Z/Clause_0.md]
+=[G/Kantara-UMA-Text-CmA/Z/Clause_0.md]

@@ -10,4 +10,4 @@ Duty.1=to supply or facilitate access to truthful claims required for access aut
 
 Comments=At a later stage, the {Requesting_Party} might be asked to provide claims to support authorization processes at this {Authorization_Server} for accessing all resources protected by this {Authorization_Server}, managed by any Authorizing Parties, at any {Resource_Servers}. The {Requesting_Party}'s responsibility to act in good faith in interacting with this {Authorization_Server} begins now because factual claims it supplies could be reused for more than one access-sharing relationship. This obligation can be removed through {AAT} revocation.
 
-=[G/CmA_F_Kantara-UMA-Text/Z/Clause_0.md]
+=[G/Kantara-UMA-Text-CmA/Z/Clause_0.md]

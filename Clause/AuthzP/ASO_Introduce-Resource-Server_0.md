@@ -10,4 +10,4 @@ Duty.1=to introduce the desired {Resource_Server} to this {Authorization_Server}
 
 Comments=How the {Resource_Server} learned of the {Authorization_Server}'s location is out of band for {UMA}; it is the {Authorizing_Party}'s responsibility to check that it has been redirected to an acceptable {Authorization_Server} before the {Authorization_Server} successfully issues the {PAT}. This obligation can be removed through {PAT} revocation.
 
-=[G/CmA_F_Kantara-UMA-Text/Z/Clause_0.md]
+=[G/Kantara-UMA-Text-CmA/Z/Clause_0.md]
